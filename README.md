@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-N-AS-Awstin
 - 👀 I’m interested in IT, Networking, Indie-Game development, and visual arts.
-- 🌱 I’m currently learning programming with C#, Python, and Javascript.
+- 🌱 I’m currently learning programming with C#/C++/Python/JavaScript
 - 💞️ I’m looking to collaborate on Student projects!
 - 📫 How to reach me; Throw me a message.
 - 😄 Pronouns: She/Her
