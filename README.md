@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning programming with C#/C++/Python/JavaScript
 - 💞️ I’m looking to collaborate on Student projects!
 - 📫 How to reach me; Throw me a message.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: The "Awstin" part of my name is named after my pet cat! Austin
 
 <!---
